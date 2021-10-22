@@ -6,7 +6,7 @@ Use
 
 $npm install i 
 
-to install all the dependencies
+to install all the dependencies.
 Use
 
 $npm start
@@ -19,7 +19,7 @@ Use
 
 $npm install i 
 
-to install all the dependencies
+to install all the dependencies.
 Use
 
 $truffle migrate --network development
@@ -27,7 +27,7 @@ $truffle migrate --network development
 to submit your contract to block chains
 
 3.download "python" file
-This is just for touch the block chain regularly to upload the local time if you test your contract on the loacl chain
+This is just for touch the block chain regularly to upload the local time if you test your contract on the loacl chain.
 Use
 
 $python eb.py
